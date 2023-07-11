@@ -19,9 +19,9 @@ Welcome to my GitHub profile! I am a passionate WordPress theme and plugin devel
 
 Here are a few notable projects I have worked on:
 
-- [Project 1](https://sixthandrio.com/): Description of the project.
-- [Project 2](https://www.gcomfort.com/): Description of the project.
-- [Project 3](https://thebudgrower.com/): Description of the project.
+- [Project 1](https://sixthandrio.com/): Sixth And Rio
+- [Project 2](https://www.gcomfort.com/): George Comfort & Sons
+- [Project 3](https://thebudgrower.com/): The Budgrower
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
