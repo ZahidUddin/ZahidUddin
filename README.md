@@ -1,10 +1,40 @@
-- 👋 Hi, I’m Zahid Uddin
-- 👀 I’m interested in WordPress
-- 🌱 I’m currently learning SEO
-- 💞️ I’m looking to collaborate on WordPress Sites
-- 📫 How to reach me zahidudd0.in@gmail.com
+# Developer Profile
 
-<!---
-ZahidUddin/ZahidUddin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![GitHub Profile](https://img.shields.io/badge/GitHub-YourUsername-black.svg?style=flat&logo=github)](https://github.com/ZahidUddin/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-YourName-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-uddin-4267b816b/)
+
+Welcome to my GitHub profile! I am a passionate WordPress theme and plugin developer with a deep understanding of the WordPress ecosystem. I love building elegant and efficient solutions that empower users to create stunning websites with ease. 💻🌟
+
+## Skills
+
+- WordPress Theme Development
+- WordPress Plugin Development
+- PHP
+- HTML
+- CSS
+- JavaScript
+- Git
+
+## Projects
+
+Here are a few notable projects I have worked on:
+
+- [Project 1](https://sixthandrio.com/): Description of the project.
+- [Project 2](https://www.gcomfort.com/): Description of the project.
+- [Project 3](https://thebudgrower.com/): Description of the project.
+
+Feel free to explore my GitHub repositories for more projects and code samples.
+
+## Contact
+
+I'm always open to new opportunities, collaborations, or just connecting with fellow developers. You can reach me through the following channels:
+
+- GitHub: [YourUsername](https://github.com/ZahidUddin/)
+- LinkedIn: [YourName](https://www.linkedin.com/in/zahid-uddin-4267b816b/)
+- Email: zahidudd0.in@gmail.com
+
+Feel free to reach out, and let's chat about all things WordPress and development! 🚀📩
+
+---
+
+Thank you for visiting my profile. I look forward to connecting with you! 😊✨
