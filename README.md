@@ -1,7 +1,7 @@
 # Developer Profile
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-YourUsername-black.svg?style=flat&logo=github)](https://github.com/ZahidUddin/)
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-YourName-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-uddin-4267b816b/)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-ZahidUddin-black.svg?style=flat&logo=github)](https://github.com/ZahidUddin/)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-ZahidUddin-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-uddin-4267b816b/)
 
 Welcome to my GitHub profile! I am a passionate WordPress theme and plugin developer with a deep understanding of the WordPress ecosystem. I love building elegant and efficient solutions that empower users to create stunning websites with ease. 💻🌟
 
