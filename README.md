@@ -1,4 +1,4 @@
-# Developer Profile
+# Profile
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub-ZahidUddin-black.svg?style=flat&logo=github)](https://github.com/ZahidUddin/)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-ZahidUddin-blue.svg?style=flat&logo=linkedin)](https://www.linkedin.com/in/zahid-uddin-4267b816b/)
